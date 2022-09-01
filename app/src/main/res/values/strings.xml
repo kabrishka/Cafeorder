@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Cafe order</string>
+    <string name="logoDescription">Логотип кафе</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="hintName">Введите ваше имя</string>
+    <string name="hintPassword">Введите ваш пароль</string>
+    <string name="defaultName">Name</string>
+    <string name="defaultPass">Password</string>
+    <string name="btnCreateOrder">Создать заказ</string>
+    <string name="warningFillFields">Все поля должны быть заполнены</string>
+    <string name="helloUser">Привет, %s! Что будете заказывать?</string>
+    <string name="tea">Чай</string>
+    <string name="coffee">Кофе</string>
+    <string name="additions">Что добавить в ваш %s</string>
+    <string name="milk">Молоко</string>
+    <string name="sugar">Сахар</string>
+    <string name="lemon">Лимон</string>
+    <string name="choseDrink">Так и быть выбери напиток</string>
+    <string name="btnSendDescriptions">This is bottom</string>
+    <string name="order">Name: %s\nPassword: %s\nDrink: %s\nType of drink: %s\n</string>
+    <string name="needAdditions">\"Необходимые добавки: \"</string>
+    <string-array name="optionsOfCoffee">
+        <item>Americano</item>
+        <item>Espresso</item>
+        <item>Latte</item>
+    </string-array>
+    <string-array name="optionsOfTea">
+        <item>Erl Grey</item>
+        <item>Green</item>
+        <item>Starberry</item>
+    </string-array>
+</resources>
